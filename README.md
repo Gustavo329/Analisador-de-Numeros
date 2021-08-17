@@ -1,1 +1,1 @@
-# Analisador-de-Numeros
+# AnalisadordeNumeros
